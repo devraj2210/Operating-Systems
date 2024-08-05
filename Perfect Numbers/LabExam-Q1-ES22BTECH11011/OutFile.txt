@@ -1,0 +1,5 @@
+6: Found by Thread 5
+28: Found by Thread 11
+496: Found by Thread 15
+8128: Found by Thread 15
+Total Perfect Numbers: 4
